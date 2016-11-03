@@ -1,1 +1,1 @@
-# the_panty
+"GitHub Checkpoint Assignment"
